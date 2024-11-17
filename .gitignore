@@ -162,3 +162,7 @@ cython_debug/
 #.idea/
 
 *.pth
+# 무시할 파일 및 디렉토리 추가
+.DS_Store
+.idea/
+
